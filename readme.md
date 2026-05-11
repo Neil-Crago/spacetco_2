@@ -58,3 +58,19 @@ cargo build --release
 ```bash
 cargo run --release
 ```
+
+
+## Citation
+
+DOI: [10.5281/zenodo.19999721](https://doi.org/10.5281/zenodo.19999721)
+
+## License
+
+MIT
+
+## Additional Helpful Documentation
+
+[LCC Full Specification v9.0](https://github.com/Neil-Crago/lcc/docs/LCC_Full_Spec_v9.pdf)
+
+---
+  
