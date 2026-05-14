@@ -70,7 +70,7 @@ MIT
 
 ## Additional Helpful Documentation
 
-[LCC Full Specification v10.0](https://github.com/Neil-Crago/lcc/blob/master/docs/LCC_Full_Spec_v10.pdf)
+[LCC Full Specification v11.0](https://github.com/Neil-Crago/lcc/blob/master/docs/LCC_Full_Spec_v11.pdf)
 
 ---
   
