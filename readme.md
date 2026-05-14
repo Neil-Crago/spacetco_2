@@ -6,9 +6,9 @@
 
 ## Abstract
 
-SpaceTCO presents a unified geometric architecture in which physics, computation, and cognition emerge from a single deterministic substrate. Instead of treating thermodynamics, electromagnetism, quantum behaviour, biological coherence, and cosmology as separate domains, the framework derives them from the same underlying causal geometry. 
+SpaceTCO presents a unified geometric architecture in which physics, computation, and cognition emerge from a single deterministic substrate. Instead of treating thermodynamics, electromagnetism, quantum behaviour, biological coherence, and cosmology as separate domains, the framework derives them from the same underlying causal geometry.
 
-At the foundation is the Universal Causal Operator, a discrete update rule that preserves coherence, adjacency, and identity across volumetric pixels defined by the 156-Metric. This metric, together with the Universal Field Phase Space and Conglomerate Calculus, establishes the minimal geometric conditions for stable matter, fields, and information flow. 
+At the foundation is the Universal Causal Operator, a discrete update rule that preserves coherence, adjacency, and identity across volumetric pixels defined by the 156-Metric. This metric, together with the Universal Field Phase Space and Conglomerate Calculus, establishes the minimal geometric conditions for stable matter, fields, and information flow.
 
 Quantum structure appears as localized coherence wells; gravitation emerges as anisotropic causal flow; dark matter and dark energy arise from surplus and reciprocal curvature; and biological systems instantiate the same coherence-preservation logic through TADs, syntropic operators, and topological resonance. The SpaceTCO Operating System (v2.0) formalizes these principles into an executable architecture, providing a scale-invariant description of matter, identity, and temporal evolution. The result is a single computational geometry capable of expressing microphysics, cosmology, cognition, and macroscopic engineering within one coherent, falsifiable framework.
 
@@ -58,7 +58,6 @@ cargo build --release
 ```bash
 cargo run --release
 ```
-
 
 ## Citation
 
