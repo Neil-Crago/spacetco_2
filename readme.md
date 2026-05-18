@@ -69,7 +69,15 @@ MIT
 
 ## Additional Helpful Documentation
 
-[LCC Full Specification v12.0](https://github.com/Neil-Crago/lcc/blob/master/docs/LCC_Full_Spec_v12.pdf)
+-[Deterministic Resolution of the Quantum State via a Discrete Prime‑Indexed Manifold](https://github.com/Neil-Crago/M46)
+
+-[A Bipartite Tensor Instruction Set Architecture (ISA) for Deterministic Consensus and Thermal Efficiency in High-Performance Computing](https://github.com/Neil-Crago/lcc/blob/master/peerj.pdf)
+
+-[Linear Comglomerate Calculus - Specification](https://github.com/Neil-Crago/lcc/blob/master/docs/LCC_Full_Spec_v12.pdf)
+
+-[Linear Conglomerate calculus - Repository](https://github.com/Neil-Crago/lcc)
+
+
 
 ---
   
