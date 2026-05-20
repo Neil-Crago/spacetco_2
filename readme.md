@@ -1,3 +1,8 @@
+[![DOI](https://img.shields.io/badge/DOI-10.5281%2Fzenodo.20184970-blue.svg)](https://doi.org/10.5281/zenodo.20184970)
+
+This repository contains the source files, manuscript, and supplemental materials for:
+
+
 # SpaceTCO: Unified Field Architecture 2.0
 
 ## A Deterministic Geometric Framework for Physics, Computation, and Cognition
@@ -61,7 +66,7 @@ cargo run --release
 
 ## Citation
 
-DOI: [10.5281/zenodo.19999721](https://doi.org/10.5281/zenodo.19999721)
+Crago, N. (2026). SpaceTCO Unified Field Architecture: A Deterministic Geometric Framework for Physics, Computation, and Cognition (SpaceTCO-2.051). Zenodo. https://doi.org/10.5281/zenodo.20184970
 
 ## License
 
